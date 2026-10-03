@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "prepare": "husky",
-    "postinstall": "node -e \"if (process.platform !== 'win32') require('child_process').execSync('chmod +x .husky/*', { stdio: 'inherit' })\"",
+    "postinstall": "# REMOVED BY REPOGUARD: suspicious postinstall script",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix",
     "pre-commit": "lint-staged --concurrent false",
