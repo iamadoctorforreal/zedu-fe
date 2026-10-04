@@ -66,7 +66,7 @@ const philosophyCards = [
     desc: "AI should reduce admin work, summarize discussions, and support learners - not overwhelm them.",
   },
   {
-    title: "Educators Deserve Better Tools",
+    title: "Teachers Deserve Better Tools",
     desc: "Bootcamps, institutions, and cohort programs need tools built around how learning actually works.",
   },
 ];
